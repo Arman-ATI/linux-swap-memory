@@ -26,7 +26,7 @@ while true; do
           #install swap
         1)
             clear
-            echo -e "${GREEN}installing nekoray${NC}" 
+            echo -e "${GREEN}installing swap${NC}" 
             echo ""
             cd
             apt update && apt upgrade -y
